@@ -50,4 +50,4 @@ The project demonstrates the practical application of SQL and BI tools to solve 
 
 ## 📎 Project Files
 - [SQL Document](https://github.com/Oluwatosinoguntuga/DSA-PROJECT-1/blob/main/SQLQuery3.sql))  
-- [📊 PowerPoint Report](KMS_Abuja_Insights_Slides.pptx)
+- [ PowerPoint Report](https://github.com/Oluwatosinoguntuga/DSA-PROJECT-1/blob/main/sql%20presentationKMS_Abuja_Insights_Slides.pptx))
