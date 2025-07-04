@@ -49,5 +49,5 @@ The project demonstrates the practical application of SQL and BI tools to solve 
 ---
 
 ## 📎 Project Files
-- [📄 Portfolio Document](KMS_BI_Project_Portfolio_Updated.docx)  
+- [SQL Document](https://github.com/Oluwatosinoguntuga/DSA-PROJECT-1/blob/main/SQLQuery3.sql))  
 - [📊 PowerPoint Report](KMS_Abuja_Insights_Slides.pptx)
