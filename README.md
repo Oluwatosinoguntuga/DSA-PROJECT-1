@@ -14,7 +14,6 @@ To analyze historical sales and customer data from the Abuja division of KMS, id
 
 ---
 
-
 ##  Key Responsibilities
 - Imported and explored sales dataset in SQL Server
 - Wrote SQL queries to analyze product categories, regional performance, customer segments, and shipping methods
@@ -31,17 +30,14 @@ To analyze historical sales and customer data from the Abuja division of KMS, id
  **Nunavunt, Northwest territories and Yukon** are the three least perfoming region in terms of Sales---Investigate and boost awareness or logistics in low-performing areas.
 3. **Appliances in Ontario** showed strong sales – consider promotions or bundles  
 4. **Bottom 10 customers** contributed minimally – apply loyalty/retargeting strategies  
-5. **Delivery Truck** caused highest shipping cost – optimize based on Order Priority  
+5. **Delivery Truck** caused highest shipping cost – Take it out of the shipping method
 6. **Most valuable customers** preferred Technology & Office Supplies – assign account managers  
 7. **Top small business client** offered strong ROI – offer partnership incentives  
 8. **Most active corporate customer** placed highest orders – consider bulk contract deals  
 9. **Most profitable consumer** showed loyalty – use for segmentation modeling  
-10. **Returned items column missing** – implemented for future product feedback tracking  
-11. **Shipping vs. Order Priority** mismatches found – enforce logic-based shipping rules
 
----
 
-## ✅ Outcome
+##  Outcome
 This project provided strategic recommendations that can:
 - Enhance logistics and reduce shipping costs  
 - Improve customer retention and segmentation  
